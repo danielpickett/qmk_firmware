@@ -1,7 +1,7 @@
 #ifndef CONFIG_H
 #define CONFIG_H
 
-// #include "config_common.h" // caused a bug so I commented this out --Daniel
+#include "config_common.h" // caused a bug so I commented this out --Daniel
 
 /* USB Device descriptor parameter */
 #define VENDOR_ID       0xFEED
